@@ -18,6 +18,12 @@
     --font3: Arial, Helvetica, sans-serif;
 }
 
+main{
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+}
+
 body{
     background-color: var(--cor3);
     font-family: var(--font3);
