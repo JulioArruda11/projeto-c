@@ -103,7 +103,7 @@ mark{
 .tf{
     font-family: var(--fontTit);
     margin-top: 200px;
-    font-size: 7em;
+    font-size: 10vw;
     text-shadow: 10px 10px 50px rgb(132, 0, 255);
     color: white;
 }
